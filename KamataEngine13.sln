@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KamataEngine13", "KamataEngine13.vcxproj", "{F42713A2-D711-4295-A469-CC6261CFD528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42713A2-D711-4295-A469-CC6261CFD528}.Debug|x64.ActiveCfg = Debug|x64
+		{F42713A2-D711-4295-A469-CC6261CFD528}.Debug|x64.Build.0 = Debug|x64
+		{F42713A2-D711-4295-A469-CC6261CFD528}.Release|x64.ActiveCfg = Release|x64
+		{F42713A2-D711-4295-A469-CC6261CFD528}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE85A46-CF8F-42AD-A469-4BD822758050}
+	EndGlobalSection
+EndGlobal
